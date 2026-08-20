@@ -1,0 +1,7 @@
+interface:
+  display_name: "福建知识产权类案检索"
+  short_description: "检索福建知识产权类案并分析侵权、抗辩、证据与赔偿"
+  default_prompt: "使用 $fujian-ip-litigation 检索与本案相似的福建知识产权案例，并分析诉讼方向。"
+
+policy:
+  allow_implicit_invocation: true
