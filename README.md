@@ -84,3 +84,4 @@ python scripts/quick_validate.py .
 如果本机已安装 `PyYAML`，也可以使用 Codex 自带的严格校验器：`python C:\Users\23693\.codex\skills\.system\skill-creator\scripts\quick_validate.py .`。
 
 详细规范见 `CONTRIBUTING.md`。代码按 MIT License 发布；来源网站内容和裁判文书的版权、访问条款及个人信息保护义务仍由使用者承担。
+
